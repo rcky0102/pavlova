@@ -20,7 +20,7 @@ class Pavlova extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Strawry Pavlova',
+                  'Strawberry Pavlova',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
@@ -28,7 +28,7 @@ class Pavlova extends StatelessWidget {
                 ), // Text
                 const SizedBox(height: 8),
                 const Text(
-                  "Pavlova is a meringue-based dessert named after the Russian ballerina Anna Pavlova."
+                  "Pavlova is a meringue-based dessert named after the Russian ballerina Anna Pavlova. "
                   "Pavlova features a crisp crust and soft, light inside, topped with fruit and whipped cream.",
                   style: TextStyle(
                     fontSize: 14,
